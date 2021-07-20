@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/Nedbank-Limited/Nedson/_apis/build/status/louisza.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/Nedbank-Limited/Nedson/_build/latest?definitionId=1857&branchName=master)
+
 
 # Python/Flask Tutorial for Visual Studio Code
 
